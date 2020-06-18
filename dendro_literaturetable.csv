@@ -1,0 +1,11 @@
+index;root;stem1;dim1;dim2;dim3;dim_i;stem2;dim11;dim21;dim22;dim23;?;stem3;dim31;dim32;dim33;?;stem_i;dim_ip;literature
+1;topic;field;issue1;aspect1;subtopic1;sub-sub1;subfield1;?;?;?;?;?;;;;;;;;lit1
+2;topic;field;issue1;aspect1;subtopic2;sub-sub2;subfield2;?;?;?;?;?;;;;;;;;lit2
+3;topic;field;issue2;aspect2;subtopic1;su-sub1;subfiled1;?;?;?;?;?;;;;;;;;lit3
+4;topic;?;?;?;?;?;?;?;?;?;?;?;;;;;;;;lit4
+5;topic;;;;;;subfield2;?;?;?;?;?;;;;;;;;lit5
+6;topic;;;;;;subfield2;?;?;?;?;?;;;;;;;;lit6
+7;topic;;;;;;subfield2;?;?;?;?;?;;;;;;;;lit7
+8;topic;;;;;;subfield2;?;?;?;?;?;;;;;;;;lit8
+?;?;?;?;?;?;?;?;?;?;?;?;?;;;;;;;;lit9
+n;topic;field;issue_i;aspect_i;subtopic_i;sub-sub_i;subfield_i;?;?;?;?;?;;;;;;;;lit10
